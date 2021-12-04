@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @grle
+- 👋 Hi, I’m Grace
 - 👀 I’m interested in UI/UX, Instructional design, and education
 - 🌱 I’m currently learning more about Adobe Captivate
 - 💞️ I’m looking to collaborate on EdTech programs
