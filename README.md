@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Grace
 - 👀 I’m interested in UI/UX, writing, Instructional design, and education
-- 🌱 I’m currently learning more about Adobe Captivate
+- 🌱 I’m currently learning more about Webflow
 - 💞️ I’m looking to collaborate on EdTech programs
 - 📫 Reach me at graceavocado.com
 
