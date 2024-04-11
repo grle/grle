@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Grace
 - 👀 I’m interested in UI/UX, writing, and education
 - 🌱 I’m currently learning more about Javascript
-- 💞️ I’m looking to collaborate on EdTech programs
 - 📫 Reach me at graceavocado.com
 
 <!---
